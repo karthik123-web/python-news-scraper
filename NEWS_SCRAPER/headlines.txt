@@ -1,0 +1,60 @@
+Show HN: I built a synth for my daughter
+bitsnpieces.dev
+FreeMDU: Open-source Miele appliance diagnostic tools
+github.com/medusalix
+Giving C a Superpower
+hwisnu.bearblog.dev
+C++ implementation of SIP, ICE, TURN and related protocols
+github.com/resiprocate
+Craft Chrome Devtools Protocol (CDP) commands with the new command editor
+chrome.com
+Quest for Permissively Licensed PDF Library in C#
+duerrenberger.dev
+Building a Simple Search Engine That Works
+karboosx.net
+Ned: ImGui Text Editor with GL Shaders
+github.com/nealmick
+Celtic Code: Drawing Knots with Python
+2earth.github.io
+Heretic: Automatic censorship removal for language models
+github.com/p-e-w
+Fastmcpp (Fastmcp for C++)
+github.com/0xeb
+A file format uncracked for 20 years
+landaire.net
+Listen to Database Changes Through the Postgres WAL
+peterullrich.com
+PicoIDE – An open IDE/ATAPI drive emulator
+picoide.com
+A 1961 Relay Computer Running in the Browser
+greg.technology
+GCC 16 considering changing default to C++20
+sourceware.org
+The fate of "small" open source
+nolanlawson.com
+Mysterious drones have been spotted at airports across Europe
+bbc.co.uk
+I finally understand Cloudflare Zero Trust tunnels
+david.coffee
+The Pragmatic Programmer: 20th Anniversary Edition (2023)
+ahalbert.com
+FPGA Based IBM-PC-XT
+bit-hack.net
+Neuroscientists track the neural activity underlying an “aha”
+quantamagazine.org
+Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)
+ericpony.github.io
+Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision
+codelucky.com
+Why Castrol Honda Superbike crashes on (most) modern systems
+seri.tools
+Fourier Transforms
+continuummechanics.org
+Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down
+quantamagazine.org
+A new chapter begins for EV batteries with the expiry of key LFP patents
+shoosmiths.com
+Supercookie: Browser Fingerprinting via Favicon (2021)
+github.com/jonasstrehle
+I have recordings proving Coinbase knew about breach months before disclosure
+jonathanclark.com
