@@ -15,7 +15,7 @@ Saves all headlines into a headlines.txt file
 
 Shows how many headlines were collected
 
-Beginner-friendly & follows internship task guidelines
+
 
 🛠️ Technologies Used
 
@@ -60,4 +60,5 @@ Web scraping
 File handling
 
 Automation using Python
+
 
